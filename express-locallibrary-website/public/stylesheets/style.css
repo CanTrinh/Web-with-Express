@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.sidebar-nav {
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
+  max-height: 100vh;
+}
+
+.sidebar-nav > li {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  border: 1px solid white;
+  margin-bottom: 10px;
+  border-radius: 5px;
+
+}
+
+.sidebar-nav li hr {
+  color: black;
+  border: 5px solid black
+}
